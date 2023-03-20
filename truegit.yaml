@@ -40,23 +40,22 @@ navLinks:
     url: https://github.com/Kollate/truegit-test
     isExternal: true
 socials:
-  linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-  instagram: https://www.instagram.com/quantdaddy/
-  github: https://github.com/quant-daddy
+  linkedin: https://www.linkedin.com/in/benjamin-anezo/
+  github: https://github.com/Nekall
 authors:
   quantdaddy:
-    name: Suraj Keshri
-    title: Founder, Gully
-    description: Enjoys coding and coding only
-    url: https://gully.to
+    name: Benjamin Anezo
+    title: Dev Fullstack Junior
+    description: Have a nice dev
+    url: https://neka.dev/
     profileImage:
       path: "./assets/quantdaddy.jpeg"
     socials:
-      linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-      instagram: https://www.instagram.com/quantdaddy/
+      linkedin: https://www.linkedin.com
+      instagram: https://www.instagram.com
       github: https://github.com/quant-daddy
       twitter: https://twitter.com/quantdaddy
       url: https://google.com
-      youtube: https://www.youtube.com/channel/UC5YwzJ-Vv_akOUIe5FZ-zDA
+      youtube: https://www.youtube.com
       email: hello@truegit.io
-      reddit: https://www.reddit.com/r/kubernetes/
+      reddit: https://www.reddit.com
