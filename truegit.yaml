@@ -40,11 +40,10 @@ navLinks:
     url: https://github.com/Kollate/truegit-test
     isExternal: true
 socials:
-  linkedin: https://www.linkedin.com/in/benjamin-anezo/
   github: https://github.com/Nekall
 authors:
   quantdaddy:
-    name: Benjamin Anezo
+    name: Neka Anezo
     title: Dev Fullstack Junior
     description: Have a nice dev
     url: https://neka.dev/
